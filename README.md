@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building a full-stack website with RESTful API.
 - 🌱 I’m currently learning react front-end web development.
 - 🤔 I’m looking for help with machine learning imagine diagonosis for bedside ultrasound using a convolutional neural network.
-- 💬 Ask me about reverse engineering.
 - ⚡ Fun fact: Doctor 👨‍⚕️, background in biomedical sciences. M.D. / M.S. Pharmacology
 
 
